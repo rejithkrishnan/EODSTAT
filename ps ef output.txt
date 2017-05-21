@@ -1,0 +1,36 @@
+echo "finadm 29580 18659   1 10:22:38 ?           0:17 /finacle/FINSMB/BE/Finacle/FC/app/prodbase/exe/icbx4008 88304:00:B"|cut -d"exe/" -f1
+finadm 20322  4018   0 10:03:07 ?           0:26 /finacle/FINSMB/BE/Finacle/FC/app/prodbase/exe/icbx4008 88183:00:B
+finadm 26771  4018   0 10:22:06 ?           0:08 /finacle/FINSMB/BE/Finacle/FC/app/prodbase/exe/icbx4008 88183:00:B
+finadm 37128 33209   0 10:24:43 ?           0:00 /finacle/FINSMB/BE/Finacle/FC/app/prodbase/exe/icbx4008 88393:00:B
+finadm 35312 35311   0 10:24:05 ?           0:04 /finacle/FINSMB/BE/Finacle/FC/app/prodbase/exe/babx4459 88396:00:B -MintSuccess
+finadm 33714 28003   0 10:23:34 ?           0:07 /finacle/FINSMB/BE/Finacle/FC/app/prodbase/exe/icbx4008 88369:00:B
+finadm 64722  4188   0 10:16:30 ?           1:09 /finacle/FINSMB/BE/Finacle/FC/app/prodbase/exe/icbx4008 88192:00:B
+finadm 31436 28459   0 10:23:02 ?           0:09 /finacle/FINSMB/BE/Finacle/FC/app/prodbase/exe/icbx4008 88372:00:B
+finadm 30617 19254   0 10:22:50 ?           0:03 /finacle/FINSMB/BE/Finacle/FC/app/prodbase/exe/icbx4008 88307:00:B
+finadm 30891 23366   1 10:22:54 ?           0:18 /finacle/FINSMB/BE/Finacle/FC/app/prodbase/exe/icbx4008 88330:00:B
+finadm  3447  3445   0 09:58:10 ?           0:04 /finacle/FINSMB/BE/Finacle/FC/app/prodbase/exe/babx4009 88180:00:B U B APP2
+finadm 30533 21867   0 10:22:49 ?           0:07 /finacle/FINSMB/BE/Finacle/FC/app/prodbase/exe/icbx4008 88322:00:B
+finadm 30035 18619   0 10:22:43 ?           0:01 /finacle/FINSMB/BE/Finacle/FC/app/prodbase/exe/icbx4008 88303:00:B
+finadm 21741  4018   1 10:21:11 ?           0:36 /finacle/FINSMB/BE/Finacle/FC/app/prodbase/exe/icbx4008 88183:00:B
+finadm 31938 27761   0 10:23:07 ?           0:08 /finacle/FINSMB/BE/Finacle/FC/app/prodbase/exe/icbx4008 88366:00:B
+finadm 31989 28459   0 10:23:09 ?           0:04 /finacle/FINSMB/BE/Finacle/FC/app/prodbase/exe/icbx4008 88372:00:B
+finadm 31561 19254   0 10:23:03 ?           0:05 /finacle/FINSMB/BE/Finacle/FC/app/prodbase/exe/icbx4008 88307:00:B
+finadm 36979 33209   0 10:24:40 ?           0:01 /finacle/FINSMB/BE/Finacle/FC/app/prodbase/exe/icbx4008 88393:00:B
+finadm 27042 27035   1 10:22:09 ?           0:13 /finacle/FINSMB/BE/Finacle/FC/app/prodbase/exe/babx4459 88352:00:B -MintSuccess
+finadm  6108  4003   0 10:18:10 ?           0:38 /finacle/FINSMB/BE/Finacle/FC/app/prodbase/exe/icbx4008 88182:00:B
+finadm 30877 23396   1 10:22:53 ?           0:16 /finacle/FINSMB/BE/Finacle/FC/app/prodbase/exe/icbx4008 88331:00:B
+finadm  6096  3988   0 10:18:10 ?           0:39 /finacle/FINSMB/BE/Finacle/FC/app/prodbase/exe/icbx4008 88181:00:B
+finadm 15043  4097   0 10:19:53 ?           0:18 /finacle/FINSMB/BE/Finacle/FC/app/prodbase/exe/icbx4008 88188:00:B
+finadm 31656  4018   0 10:23:04 ?           0:05 /finacle/FINSMB/BE/Finacle/FC/app/prodbase/exe/icbx4008 88183:00:B
+finadm 37152 33209   0 10:24:44 ?           0:00 /finacle/FINSMB/BE/Finacle/FC/app/prodbase/exe/icbx4008 88393:00:B
+finadm 19776  3988   1 10:20:50 ?           0:42 /finacle/FINSMB/BE/Finacle/FC/app/prodbase/exe/icbx4008 88181:00:B
+finadm 31453 18659   1 10:23:02 ?           0:17 /finacle/FINSMB/BE/Finacle/FC/app/prodbase/exe/icbx4008 88304:00:B
+finadm 29855 23396   0 10:22:41 ?           0:02 /finacle/FINSMB/BE/Finacle/FC/app/prodbase/exe/icbx4008 88331:00:B
+finadm  7479  4188   0 10:18:28 ?           1:08 /finacle/FINSMB/BE/Finacle/FC/app/prodbase/exe/icbx4008 88192:00:B
+finadm 31845 21867   0 10:23:07 ?           0:11 /finacle/FINSMB/BE/Finacle/FC/app/prodbase/exe/icbx4008 88322:00:B
+finadm 23396 23392   0 10:21:28 ?           0:09 /finacle/FINSMB/BE/Finacle/FC/app/prodbase/exe/icbx4008 88331:00:B
+finadm 18659 18655   0 10:20:36 ?           0:10 /finacle/FINSMB/BE/Finacle/FC/app/prodbase/exe/icbx4008 88304:00:B
+finadm 32747 28003   0 10:23:19 ?           0:09 /finacle/FINSMB/BE/Finacle/FC/app/prodbase/exe/icbx4008 88369:00:B
+finadm 23313 23301   1 10:21:27 ?           0:27 /finacle/FINSMB/BE/Finacle/FC/app/prodbase/exe/babx4459 88329:00:B -MintSuccess
+finadm 29484 19254   0 10:22:37 ?           0:05 /finacle/FINSMB/BE/Finacle/FC/app/prodbase/exe/icbx4008 88307:00:B
+finadm 36855 32213   0 10:24:37 ?           0:01 /finacle/FINSMB/BE/Finacle/FC/app/prodbase/exe/icbx4008 88390:00:B
